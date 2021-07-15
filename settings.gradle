@@ -1,0 +1,2 @@
+rootProject.name = "Demo LocationDetection"
+include ':app'
